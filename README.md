@@ -1,5 +1,5 @@
-Check out my awesome To-Do List web app! Click the button below to explore it:
 
+[Click here to visit the web app](https://sumair-ce.github.io/To-do-list-web-app/) 
 `https://sumair-ce.github.io/To-do-list-web-app/`
 
 ## Web App Interface
